@@ -1,0 +1,3 @@
+http://callider/pause/index/pause/ajaxPause?pauseConfigId=&admin=0 costs
+http://192.168.65.101/pause/index/pause/ajaxPause?pauseConfigId=all&admin=1 35
+http://callider/pause/index/tv/useUser costs

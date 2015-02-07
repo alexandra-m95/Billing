@@ -1,0 +1,217 @@
+{
+"accounts_by_showing_bytes": {
+"('192.168.12.204', '17/Feb/2013')": 121537684.0,
+"('192.168.12.61', '17/Feb/2013')": 233692790.0,
+"('192.168.12.77', '17/Feb/2013')": 53049972.0,
+"('192.168.65.56', '17/Feb/2013')": 2027361840.0,
+"('192.168.12.237', '17/Feb/2013')": 61819164.0,
+"('192.168.12.210', '17/Feb/2013')": 9436973.0,
+"('192.168.12.60', '17/Feb/2013')": 170595192.0,
+"('192.168.74.91', '17/Feb/2013')": 119959680.0,
+"('192.168.12.38', '17/Feb/2013')": 55622152.0,
+"('192.168.12.247', '17/Feb/2013')": 32661224.0,
+"('192.168.74.78', '17/Feb/2013')": 102328204.0,
+"('192.168.12.69', '17/Feb/2013')": 112133036.0
+},
+"current_costs_file": "/home/alexandra/PycharmProjects/Task_Billing/Tests/valid_costs",
+"number_bytes_for_resources": {
+"('http://callider/audition/supervision/images/ajax.gif', '17/Feb/2013')": {
+"192.168.12.20": 1
+},
+"('-/lib/icq/icq.php', '17/Feb/2013')": {
+"192.168.65.56": 1
+},
+"('http://callider/audition/supervision/assets/fef21526/supervision.js', '17/Feb/2013')": {
+"192.168.12.20": 1
+},
+"('http://callider.kontur/pause/index/pause/ajaxPause?pauseConfigId=&admin=0', '17/Feb/2013')": {
+"192.168.74.151": 669
+},
+"('http://192.168.65.101/lib/callider/graph.registr_tel.php?auto=0/images/back.png', '17/Feb/2013')": {
+"192.168.65.56": 1
+},
+"('http://callider//audition/supervision', '17/Feb/2013')": {
+"192.168.12.20": 1
+},
+"('http://callider/pause/index/pause/ajaxPause?pauseConfigId=&admin=0', '17/Feb/2013')": {
+"192.168.12.60": 675,
+"192.168.12.38": 302,
+"192.168.12.77": 302,
+"192.168.12.247": 2,
+"192.168.74.91": 668,
+"192.168.12.237": 215,
+"192.168.74.78": 669,
+"192.168.12.204": 668,
+"192.168.12.61": 688,
+"192.168.12.69": 669
+},
+"('-/site/login', '17/Feb/2013')": {
+"192.168.64.119": 19,
+"192.168.65.93": 11
+},
+"('http://callider/graph/general/tv/useUser', '17/Feb/2013')": {
+"192.168.12.210": 56
+},
+"('http://192.168.65.101/pause/index/pause/ajaxPause?pauseConfigId=all&admin=1', '17/Feb/2013')": {
+"192.168.65.56": 694
+},
+"('http://callider.kontur/graph/general/tv/useUser', '17/Feb/2013')": {
+"192.168.74.151": 55
+},
+"('http://callider/pause/index/tv/useUser', '17/Feb/2013')": {
+"192.168.12.61": 57,
+"192.168.12.210": 56
+},
+"('http://callider/pause/index/pause/ajaxPause?pauseConfigId=all&admin=1', '17/Feb/2013')": {
+"192.168.12.210": 668
+},
+"('http://callider/index.php/tv/useUser', '17/Feb/2013')": {
+"192.168.12.108": 58
+},
+"('http://192.168.65.101/lib/callider/graph.registr_tel.php?auto=0/lib/timeto.php?timezone=Asia/Yekaterinburg&countto=2013-02-17%2010:00:00&do=r&data=graph.registr_tel.php?auto=1', '17/Feb/2013')": {
+"192.168.65.56": 1
+},
+"('http://callider.kontur/site/index/tv/useUser', '17/Feb/2013')": {
+"192.168.12.9": 58
+},
+"('http://callider/audition/supervision/audition/ajaxSupervision?kons=134&month=2&year=2013&_=1361062199714', '17/Feb/2013')": {
+"192.168.12.20": 1
+},
+"('http://callider/graph/personal/tv/useUser', '17/Feb/2013')": {
+"192.168.12.10": 58,
+"192.168.12.42": 57,
+"192.168.12.67": 58,
+"192.168.74.93": 58
+},
+"('http://callider/audition/supervision/assets/71837704/audition.js', '17/Feb/2013')": {
+"192.168.12.20": 1
+},
+"('-/', '17/Feb/2013')": {
+"192.168.64.119": 38,
+"192.168.65.93": 11
+},
+"('http://callider/audition/supervision/assets/style-b8d20cbb.css?1359954212', '17/Feb/2013')": {
+"192.168.12.20": 1
+},
+"('http://callider.kontur/pause/index/tv/useUser', '17/Feb/2013')": {
+"192.168.74.151": 57
+},
+"('http://192.168.65.101/pause/index/tv/useUser', '17/Feb/2013')": {
+"192.168.65.56": 58
+},
+"('-/lib/callider/graph.registr_tel.php?auto=0', '17/Feb/2013')": {
+"192.168.65.56": 1
+}
+},
+"number_visits_for_resources": {
+"('http://callider/audition/supervision/images/ajax.gif', '17/Feb/2013')": {
+"192.168.12.20": 27479
+},
+"('-/lib/icq/icq.php', '17/Feb/2013')": {
+"192.168.65.56": 92471
+},
+"('http://callider/audition/supervision/assets/fef21526/supervision.js', '17/Feb/2013')": {
+"192.168.12.20": 100377
+},
+"('http://callider.kontur/pause/index/pause/ajaxPause?pauseConfigId=&admin=0', '17/Feb/2013')": {
+"192.168.74.151": 35739769
+},
+"('http://192.168.65.101/lib/callider/graph.registr_tel.php?auto=0/images/back.png', '17/Feb/2013')": {
+"192.168.65.56": 1145
+},
+"('http://callider//audition/supervision', '17/Feb/2013')": {
+"192.168.12.20": 343577
+},
+"('http://callider/pause/index/pause/ajaxPause?pauseConfigId=&admin=0', '17/Feb/2013')": {
+"192.168.12.60": 42648798,
+"192.168.12.38": 13905538,
+"192.168.12.77": 13262493,
+"192.168.12.247": 8165306,
+"192.168.74.91": 29989920,
+"192.168.12.237": 15454791,
+"192.168.74.78": 25582051,
+"192.168.12.204": 30384421,
+"192.168.12.61": 50388541,
+"192.168.12.69": 28033259
+},
+"('-/site/login', '17/Feb/2013')": {
+"192.168.64.119": 1694081,
+"192.168.65.93": 209343
+},
+"('http://callider/graph/general/tv/useUser', '17/Feb/2013')": {
+"192.168.12.210": 966257
+},
+"('http://192.168.65.101/pause/index/pause/ajaxPause?pauseConfigId=all&admin=1', '17/Feb/2013')": {
+"192.168.65.56": 57924624
+},
+"('http://callider.kontur/graph/general/tv/useUser', '17/Feb/2013')": {
+"192.168.74.151": 1755974
+},
+"('http://callider/pause/index/tv/useUser', '17/Feb/2013')": {
+"192.168.12.61": 2472202,
+"192.168.12.210": 725921
+},
+"('http://callider/pause/index/pause/ajaxPause?pauseConfigId=all&admin=1', '17/Feb/2013')": {
+"192.168.12.210": 30754103
+},
+"('http://callider/index.php/tv/useUser', '17/Feb/2013')": {
+"192.168.12.108": 10856445
+},
+"('http://192.168.65.101/lib/callider/graph.registr_tel.php?auto=0/lib/timeto.php?timezone=Asia/Yekaterinburg&countto=2013-02-17%2010:00:00&do=r&data=graph.registr_tel.php?auto=1', '17/Feb/2013')": {
+"192.168.65.56": 159921
+},
+"('http://callider.kontur/site/index/tv/useUser', '17/Feb/2013')": {
+"192.168.12.9": 1548281
+},
+"('http://callider/audition/supervision/audition/ajaxSupervision?kons=134&month=2&year=2013&_=1361062199714', '17/Feb/2013')": {
+"192.168.12.20": 201287
+},
+"('http://callider/graph/personal/tv/useUser', '17/Feb/2013')": {
+"192.168.12.10": 11184168,
+"192.168.12.42": 2062548,
+"192.168.12.67": 1538299,
+"192.168.74.93": 1512448
+},
+"('http://callider/audition/supervision/assets/71837704/audition.js', '17/Feb/2013')": {
+"192.168.12.20": 138863
+},
+"('-/', '17/Feb/2013')": {
+"192.168.64.119": 919511,
+"192.168.65.93": 174316
+},
+"('http://callider/audition/supervision/assets/style-b8d20cbb.css?1359954212', '17/Feb/2013')": {
+"192.168.12.20": 17634
+},
+"('http://callider.kontur/pause/index/tv/useUser', '17/Feb/2013')": {
+"192.168.74.151": 4281664
+},
+"('http://192.168.65.101/pause/index/tv/useUser', '17/Feb/2013')": {
+"192.168.65.56": 934798
+},
+"('-/lib/callider/graph.registr_tel.php?auto=0', '17/Feb/2013')": {
+"192.168.65.56": 2253934
+}
+},
+"current_log_file": "/home/alexandra/PycharmProjects/Task_Billing/7777log",
+"current_number_of_line": "7777",
+"last_change_costs_file": "0",
+"accounts_by_count_bytes": {
+"('192.168.12.204', '17/Feb/2013')": 2672.0,
+"('192.168.12.61', '17/Feb/2013')": 3493.0,
+"('192.168.12.77', '17/Feb/2013')": 1208.0,
+"('192.168.65.56', '17/Feb/2013')": 24290.0,
+"('192.168.12.237', '17/Feb/2013')": 860.0,
+"('192.168.12.210', '17/Feb/2013')": 728.0,
+"('192.168.12.60', '17/Feb/2013')": 2700.0,
+"('192.168.74.91', '17/Feb/2013')": 2672.0,
+"('192.168.12.38', '17/Feb/2013')": 1208.0,
+"('192.168.12.247', '17/Feb/2013')": 8.0,
+"('192.168.74.78', '17/Feb/2013')": 2676.0,
+"('192.168.12.69', '17/Feb/2013')": 2676.0
+},
+"costs_of_resources": {
+"http://192.168.65.101/pause/index/pause/ajaxPause?pauseConfigId=all&admin=1": 35.0,
+"http://callider/pause/index/pause/ajaxPause?pauseConfigId=&admin=0": 4.0,
+"http://callider/pause/index/tv/useUser": 13.0
+}
+}
